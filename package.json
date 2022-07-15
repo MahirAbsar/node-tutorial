@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahirAbsar/node-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahirAbsar/node-tutorial/issues"
+  },
+  "homepage": "https://github.com/MahirAbsar/node-tutorial#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
